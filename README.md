@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hanzla Bin Masood</h1>
 <h3 align="center">A Tech Innovator</h3>
 
-- 👨‍💻 All of my projects are available at [https://hanzlamasood.github.io/](https://hanzlamasood.github.io/)
+- 👨‍💻 All of my projects are available at [https://hanzlamasood.com/](https://hanzlamasood.com/)
 
 - 📫 How to reach me **hanzlasaad@hotmail.com**
 
